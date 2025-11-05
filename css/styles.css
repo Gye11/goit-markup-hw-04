@@ -432,3 +432,15 @@ a {
   background-color: #404bbf;
   border-radius: 2px;
 }
+
+footer .social-list a {
+  background-color: #4d5ae5 !important;
+}
+
+footer .social-list svg {
+  fill: #f4f4fd !important;
+}
+
+footer .social-list a:hover {
+  background-color: #4d5ae5 !important;
+}
