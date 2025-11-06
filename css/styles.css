@@ -554,7 +554,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;  
-  gap: 120px;               
+  gap: 40px;               
 }
 
 .footer-left { max-width: 264px; }
@@ -573,7 +573,7 @@ a {
   text-align: left !important;
 }
 
-.footer .social-list {
+.footer-right .social-list {
   display: flex;
   gap: 16px;
   justify-content: flex-start !important;
