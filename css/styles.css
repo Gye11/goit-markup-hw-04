@@ -591,3 +591,9 @@ a {
 }
 
 .footer .social-list a:hover { background-color: #404bbf; }
+
+.footer-social { 
+  justify-content: flex-start; 
+  padding: 0;
+  gap: 16px;
+}
