@@ -602,3 +602,8 @@ a {
   height: 16px;
   fill: #f4f4fd;
 }
+
+.footer-subscribe .subscribe-form button svg {
+  width: 24px;
+  height: 24px;
+}
